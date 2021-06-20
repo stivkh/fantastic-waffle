@@ -1,0 +1,3 @@
+def first_git:
+  print('this is my first git trial on VCS')
+  
