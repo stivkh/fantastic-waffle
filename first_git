@@ -1,3 +1,6 @@
 def first_git:
   print('this is my first git trial on VCS')
-  
+  print('somecodes')
+
+#successfully clone from Git
+#now trying to do a push
